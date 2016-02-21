@@ -2,6 +2,6 @@
 
 ##Whack a penguin illustrates basic SpriteKit principles
 
-[![Whack a Penguin](https://j.gifs.com/mZyrpr.gif)](https://youtu.be/3Wkn0XOA_DI)
+[![Whack a Penguin](https://j.gifs.com/wpkYz1.gif)](https://youtu.be/S_QBZ3YYmJM)
 
 
